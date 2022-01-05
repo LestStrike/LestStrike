@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LestStrike or Alex
+- 👀 I’m from Ukraine
+- 🌱 I’m currently learning Python and HTML\CSS
